@@ -29,6 +29,9 @@ body {
 body::-webkit-scrollbar {
   display: none;
 }
+.whyChoosUS::-webkit-scrollbar {
+  display: none;
+}
 
 @layer utilities {
   .text-balance {
